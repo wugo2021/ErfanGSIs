@@ -1,5 +1,10 @@
 ## Requirements
     Linux or Mac
+    
+.
+    
+    sudo apt install python3-pip
+
 
 ## Released GSIs
 Download links: https://mirrors.lolinet.com/firmware/gsi/  
